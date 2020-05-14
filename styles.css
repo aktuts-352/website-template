@@ -1,0 +1,151 @@
+body{
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+.container {
+  padding: 3% 15%;
+}
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 5rem;
+  line-height: 1.5;
+}
+.navbar {
+  padding-bottom: 4.5rem;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+/* download button */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+/* tittle image */
+.title-image {
+  width: 90%;
+height: 400px;
+
+}
+
+/* services */
+#services {
+  padding: 7% 15%;
+}
+.service-heading {
+  width: 60%;
+  text-align: center;
+}
+.service-box {
+  padding: 5%;
+  text-align: center;
+}
+h2{
+font-family: "Montserrat-Bold";
+font-size: 1.5rem;
+}
+p{
+  font-family: "Montserrat-Light";
+}
+.icon {
+  color:#ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* client feedback */
+#clientfeedback {
+
+  text-align: center;
+  background-color: #ef8172;
+}
+#another-h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+  color: #fff;
+}
+.main-client-image {
+  width: 20%;
+  border-radius: 20%;
+  margin: 20px;
+}
+#another-h1{
+  color: #fff;
+}
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 3%;
+}
+.client-image {
+    width: 10%;
+    margin: 20px 20px 50px;
+}
+.carousel-item {
+  padding: 5% 15%;
+}
+h3 {
+  color: #fff;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-weight: bold;
+}
+
+/* pricing plan */
+
+#pricing {
+  text-align: center;
+  background-color: lightgrey;
+  padding: 7% 15%;
+}
+.cost {
+  background-color: #40bad5;
+  width: 40%
+  margin:auto;
+  color: #fff;
+}
+
+/* our client */
+
+#our-client {
+  background-color: #ef8172;
+  text-align:center;
+  padding: 7% 15%;
+}
+
+
+/* footer */
+
+#footer {
+  background-color: #ffc38b;
+  text-align: center;
+  height: 100px;
+}
+.price-card {
+  padding-bottom: 20px;
+}
+#footer-para {
+
+}
+i {
+  padding: 20px;
+}
+@@media (max-width:1028px) {
+  #title {
+    text-align: center;
+  }
+}
